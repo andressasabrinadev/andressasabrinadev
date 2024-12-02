@@ -1,4 +1,4 @@
-## Olá, eu sou a Andresssa Sabrina.
+## Oii, Andresssa Sabrina e esse é meu Git
 
 - 🔭 Atualmente estudando front-end.
 - 🌱 Aprimorando minhas habilidades em html, css, javascript e drupal.
